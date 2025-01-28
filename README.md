@@ -9,8 +9,8 @@ SVG images are vector-based, allowing them to be scaled up or down without losin
 
 ## Requirements
 
-- Python
-- Inkscape (must be installed in the default path for the script to work)
+- Python (3.10.2)
+- Inkscape v1.0 (C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Inkscape must be installed in this default path for the script to work)
 
 ## Working of the Script
 
